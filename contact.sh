@@ -1,0 +1,1 @@
+xdg-open https://wa.me/+94702801713
